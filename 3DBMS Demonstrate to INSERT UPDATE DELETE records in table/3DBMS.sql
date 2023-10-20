@@ -1,0 +1,13 @@
+SELECT * FROM exp3;
+
+INSERT INTO exp3 VALUES(02, 'Bhuvan');
+
+SELECT * FROM exp3;
+
+UPDATE exp3 SET S_Name='Pavan' WHERE Roll_No=2;
+
+SELECT * FROM exp3;
+
+DELETE FROM exp3 WHERE Roll_No=2;
+
+SELECT * FROM exp3;
